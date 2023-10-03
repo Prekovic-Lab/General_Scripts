@@ -6,12 +6,13 @@ All the general scripts for handling omics data used in our lab.
 ## [Cram_To_Bam_Shell_Script_All_Files](General_Genomics_Scripts/convert_all.sh)
 #### A simple script to convert all cram files to bam files and then index the bam
 
-```markdown
+
 
 **To use the script:**
 
 1. Download and place it in the folder where you want to run it.
 2. Make it executable using the following command:
+
    ```bash
    chmod +x convert_all.sh
    ```
