@@ -16,11 +16,12 @@ To use the script:
 
 Use the appropriate REFERENCE file (example):
 
-[human](https://ftp.ensembl.org/pub/release-110/fasta/homo_sapiens/dna/)
-[mouse](https://ftp.ensembl.org/pub/release-110/fasta/mus_musculus/dna/)
+- [human](https://ftp.ensembl.org/pub/release-110/fasta/homo_sapiens/dna/)
+  - Homo_sapiens.GRCh38.dna.primary_assembly.fa
+  - Homo_sapiens.GRCh38.dna.primary_assembly.fa.fai
 
-- Homo_sapiens.GRCh38.dna.primary_assembly.fa
-- Homo_sapiens.GRCh38.dna.primary_assembly.fa.fai
+- [mouse](https://ftp.ensembl.org/pub/release-110/fasta/mus_musculus/dna/)
+
 
 Check if the process is running:
   ps aux | grep convert_all.sh
