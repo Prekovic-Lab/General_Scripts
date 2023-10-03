@@ -14,7 +14,10 @@ To use the script:
 - Ensure the REFERENCE variable points to the appropriate reference genome file for your CRAM files.
 - This script will process each .cram file in the current directory, converting it to .bam and creating the corresponding .bai index.
 
-Use the corresponding REFERENCE file
+Use the appropriate REFERENCE file (example):
+
+[human](https://ftp.ensembl.org/pub/release-110/fasta/homo_sapiens/dna/)
+[mouse](https://ftp.ensembl.org/pub/release-110/fasta/mus_musculus/dna/)
 
 - Homo_sapiens.GRCh38.dna.primary_assembly.fa
 - Homo_sapiens.GRCh38.dna.primary_assembly.fa.fai
