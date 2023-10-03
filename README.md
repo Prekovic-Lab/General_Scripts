@@ -1,5 +1,3 @@
-Here's your information formatted nicely for a Markdown file on GitHub:
-
 ```markdown
 # General Scripts
 
