@@ -8,6 +8,7 @@ All the general scripts for handling omics data used in our lab.
 
 To use the script:
 
+- Download and put in the folder that you want to run it in.
 - Make it executable: chmod +x convert_all.sh.
 - Execute it in the directory with the .cram files: ./convert_all.sh.
 - Ensure the REFERENCE variable points to the appropriate reference genome file for your CRAM files.
