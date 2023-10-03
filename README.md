@@ -4,7 +4,7 @@ All the general scripts for handling omics data used in our lab.
 
 
 ## [Cram_To_Bam_Bash_Script_All_Files](General_Genomics_Scripts/convert_all.sh)
-### a simple bash script ot convert all cram files to bam files and then index the bam
+#### a simple bash script ot convert all cram files to bam files and then index the bam
 
 **To use the script:**
 
