@@ -39,5 +39,3 @@ To see if the conversion script is active, use:
 ```bash
 ps aux | grep convert_all.sh
 ```
-
-```
