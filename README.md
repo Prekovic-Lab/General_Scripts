@@ -1,9 +1,9 @@
-```markdown
+
 # General Scripts
 
 All the general scripts for handling omics data used in our lab.
 
----
+```markdown
 
 ## [Cram_To_Bam_Shell_Script_All_Files](General_Genomics_Scripts/convert_all.sh)
 #### A simple script to convert all cram files to bam files and then index the bam
